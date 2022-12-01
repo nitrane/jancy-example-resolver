@@ -1,0 +1,6 @@
+{
+  "name": "example-resolver",
+  "version": "0.0.1",
+  "description": "An example Jancy resolver plugin",
+  "main": "src/index.js"
+}
